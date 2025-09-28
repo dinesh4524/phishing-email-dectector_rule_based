@@ -1,0 +1,14 @@
+# GUI Library
+# PySide6 is the official Python binding for Qt 6, used to build the desktop interface.
+PySide6
+
+# Google API Libraries
+# Used for connecting to the Gmail API to read email content.
+google-api-python-client
+google-auth-oauthlib
+google-auth-transport-requests
+
+# HTML Parsing Library
+# Used by EmailAnalyzer.extract_text_from_html to clean raw HTML email content.
+beautifulsoup4
+
